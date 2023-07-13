@@ -6,8 +6,7 @@
     box-sizing: border-box;
     text-decoration: none;
     transition: 0.4s all linear;  /* 動畫效果 */
-    font-size:22px;
-    background-color: white;
+    font-size:22px; 
 }
 
 /* Header */
@@ -18,7 +17,36 @@ header{
     top: 0; left: 0; right: 0;
     z-index: 100;
     display: flex;
-    
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: black;
+    box-shadow: 10px 1rem 1rem rgba(255, 255, 255, 0.87);
+    opacity: 0.9;
+}
+
+header .navbar a{
+    font-size: 22px;
+    font-weight: normal;
+    color: white;
+    padding-left: 10px;
+}
+
+header .navbar a:hover{
+    font-size: 22px;
+    font-weight: 900;
+    color: rgba(5, 5, 5, 0.473);
+    margin-left: 10px;
+    transition: 1s;
+    background-color: white;
+    padding: 18px 10px 18px 10px;
+}
+
+header .logo{
+    font-size: 22px;
+    font-weight: normal;
+    color: white;
+    padding-left: 6px;
 }
 
 /* RWD 手機版 */
