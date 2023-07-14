@@ -141,20 +141,6 @@ header .logo{
     color: black;
 }
 
-.item5{
-    float: left;
-    /* margin: 57vh 0 0 0; */
-    height: 5vh;
-    width: 15vw;
-    font-size: 25px;
-    /* border-color: green; */
-    border-width: 0 0 2px 0;
-    border-style: solid;
-    padding: 10px;
-    background-color: rgb(240, 234, 234);
-    color: black;
-}
-
 .item6{
     float: left;
     /* margin: 57vh 0 0 0; */
@@ -162,7 +148,7 @@ header .logo{
     width: 15vw;
     font-size: 25px;
     /* border-color: green; */
-    border-width: 0 0 2px 0;
+    border-width: 0 0 0 0;
     border-style: solid;
     padding: 10px;
     background-color: rgb(240, 234, 234);
