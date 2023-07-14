@@ -74,42 +74,99 @@ header .logo{
 
 .item1{
     float: left;
-    /* margin: 7vh 0 0 0; */
-    height: 25vh;
+    margin: 10vh 0 0 0;
+    height: 5vh;
     width: 15vw;
-    font-size: 22px;
-    background-color: pink;
-    color: white;
+    font-size: 25px;
+    padding: 10px;
+    font-weight: bold;
+    background-color: rgb(240, 234, 234);
+    color: black;
 }
 
 .item2{
     float: left;
     /* margin: 32vh 0 0 0; */
-    height: 25vh;
+    height: 5vh;
     width: 15vw;
-    font-size: 22px;
-    background-color: gray;
-    color: white;
+    font-size: 25px;
+    border-color: red;
+    border-width: 0 0 2px 0;
+    border-style: solid;
+    padding: 10px;
+    background-color: rgb(240, 234, 234);
+    color: black;
 }
 
 .item3{
     float: left;
     /* margin: 57vh 0 0 0; */
-    height: 25vh;
+    height: 5vh;
     width: 15vw;
-    font-size: 22px;
-    background-color: green;
-    color: white;
+    font-size: 25px;
+    border-color: purple;
+    border-width: 0 0 2px 0;
+    border-style: solid;
+    padding: 10px;
+    background-color: rgb(240, 234, 234);
+    color: black;
 }
 
 .item4{
     float: left;
     /* margin: 82vh 0 0 0; */
-    height: 25vh;
+    height: 28vh;
     width: 15vw;
-    font-size: 22px;
-    background-color: black;
-    color: white;
+    font-size: 25px;
+    word-wrap: break-word;
+    border-color: blue;
+    border-width: 0 0 2px 0;
+    border-style: solid;
+    padding: 10px;
+    background-color: rgb(240, 234, 234);
+    color: black;
+}
+
+.item5{
+    float: left;
+    /* margin: 57vh 0 0 0; */
+    height: 5vh;
+    width: 15vw;
+    font-size: 25px;
+    border-color: green;
+    border-width: 0 0 2px 0;
+    border-style: solid;
+    padding: 10px;
+    background-color: rgb(240, 234, 234);
+    color: black;
+}
+
+.item5{
+    float: left;
+    /* margin: 57vh 0 0 0; */
+    height: 5vh;
+    width: 15vw;
+    font-size: 25px;
+    /* border-color: green; */
+    border-width: 0 0 2px 0;
+    border-style: solid;
+    padding: 10px;
+    background-color: rgb(240, 234, 234);
+    color: black;
+}
+
+.item6{
+    float: left;
+    /* margin: 57vh 0 0 0; */
+    height: 30vh;
+    width: 15vw;
+    font-size: 25px;
+    /* border-color: green; */
+    border-width: 0 0 2px 0;
+    border-style: solid;
+    padding: 10px;
+    background-color: rgb(240, 234, 234);
+    color: black;
 }
 
 /* 右邊 */
